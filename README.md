@@ -5,8 +5,11 @@ This project helps you analyze Diwali sale data to understand customer buying be
 ✅Features:
 
 -Data Importation: Import Diwali sale data from CSV files using Pandas.
+
 -Data Cleaning: Handle missing values, remove duplicates, and clean the dataset.
+
 -Data Analysis: Analyze customer demographics and purchasing patterns.
+
 -Data Visualization: Generate insightful graphs and charts using Matplotlib and Seaborn.
 
 🐣Demo:
