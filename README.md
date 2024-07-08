@@ -2,7 +2,7 @@
 
 This project helps you analyze Diwali sale data to understand customer buying behavior using Python. It's perfect for beginners with no previous experience in Python or data analysis. The guide takes you through each step, from setting up Python and Jupyter Notebook to analyzing the data.
 
-✅Featues:
+✅Features:
 
 -Data Importation: Import Diwali sale data from CSV files using Pandas.
 -Data Cleaning: Handle missing values, remove duplicates, and clean the dataset.
