@@ -1,6 +1,7 @@
 🤩Diwali-Sales-Analysis-using-Python
 
 This project helps you analyze Diwali sale data to understand customer buying behavior using Python. 
+
 ✅Features:
 
 -Data Importation: Import Diwali sale data from CSV files using Pandas.
